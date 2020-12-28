@@ -1,0 +1,69 @@
+:root {
+    --primary: #636cff;
+    --dark: #000000;
+    --light: #ffffff;
+  }
+  
+  .btn {
+    padding: 8px 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn--primary {
+    background: #3368fa;
+    color: #fff;
+    border: 2px solid #3368fa;
+    border-radius: 3px;
+    font-weight: 500;
+    font-family: "Poppins";
+    margin-top: 22px;
+    box-shadow: 0 2px 4px 0 #c8d7ee;
+  }
+  
+  .btn--primary:hover {
+    background: #002ca6;
+    border-color: #002ca6;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .btn--secondary {
+    background: #fff;
+    color: #3368fa;
+    border: 2px solid #3368fa;
+    border-radius: 3px;
+    font-weight: 500;
+    font-family: "Poppins";
+    margin-top: 22px;
+    box-shadow: 0 2px 4px 0 #c8d7ee;
+  }
+  
+  .btn--secondary:hover {
+    color: #002ca6;
+    background-color: #f5f8ff;
+    border-color: #002ca6;
+    transition: all 0.2s ease-in-out;
+  }
+  .btn--dark {
+    border: 2px solid var(--dark);
+  }
+  
+  .btn--light {
+    border: 2px solid var(--light);
+  }
+  
+  .btn--medium {
+    font-size: 20px;
+    padding: 2px 30px;
+  }
+  
+  .btn--large {
+    font-size: 35px;
+  }
+  @media only screen and (max-width: 280px) {
+    .btn--medium {
+      padding: 15px 25px;
+    }
+  }
+  

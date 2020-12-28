@@ -1,0 +1,38 @@
+[
+    {
+        "link": "/",
+        "alt": "Online Courses Website",
+        "img": "../images/project1.png",
+        "title": "Online Courses Website"
+    },
+    {
+        "link": "/",
+        "alt": "Restaurant E-Commerce Website",
+        "img": "../images/project2.png",
+        "title": "Restaurant E-Commerce"
+    },
+    {
+        "link": "/",
+        "alt": "Online Banking Website",
+        "img": "../images/project3.png",
+        "title": "Online Banking"
+    },
+    {
+        "link": "/",
+        "alt": "Cafe Landing Page",
+        "img": "../images/project4.png",
+        "title": "Cafe Landing Page"
+    },
+    {
+        "link": "/",
+        "alt": "Analytics Dashboard",
+        "img": "../images/project5.png",
+        "title": "Analytics Dashboard"
+    },
+    {
+        "link": "/",
+        "alt": "Social Media",
+        "img": "../images/project6.png",
+        "title": "Social Media"
+    }
+]

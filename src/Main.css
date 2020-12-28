@@ -1,0 +1,95 @@
+h1 {
+    text-align: center;
+  }
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+  }
+  
+  @media screen and (min-width: 600px) {
+    .row {
+      flex-direction: row;
+      gap: 0;
+      justify-content: space-evenly;
+      text-align: left;
+    }
+    .img-last {
+      flex-direction: row;
+    }
+    .img-first {
+      flex-direction: row-reverse;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .sliderWrapper {
+      padding: 50px;
+    }
+    .reviewHeading {
+      font-size: 40px;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .row {
+      justify-content: center;
+      gap: 150px;
+    }
+    .sliderWrapper {
+      padding: 50px 150px;
+    }
+  }
+  .projectsHeader {
+    background: url(./images/background.png) no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding-top: 64px;
+    margin-top: 0;
+    padding-bottom: 80px;
+  }
+  
+  .form {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 275px;
+    align-items: center;
+    margin: 20px auto;
+    gap: 30px;
+    padding: 20px;
+    margin: 15px;
+  }
+  
+  input {
+    height: 31px;
+    margin-top: 10px;
+  }
+  
+  input:focus,
+  textarea:focus {
+    border-bottom: 2px solid #3368fa;
+    transition: 0.4s ease-in-out;
+  }
+  textarea {
+    height: 140px;
+    width: 240px;
+  }
+  
+  input,
+  textarea {
+    padding: 10px 5px 20px 5px;
+    margin-bottom: 35px;
+    border-bottom: 2px solid lightgray;
+    border-top: none;
+    border-left: none;
+    background: #fff;
+    font-size: 19px;
+    color: rgb(0, 0, 32);
+    outline: none;
+    border-right: none;
+    font-family: "Poppins";
+    font-weight: 500;
+  }
+  

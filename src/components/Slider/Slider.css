@@ -1,0 +1,85 @@
+.glide__arrow {
+    color: #000;
+    background: #fff;
+}
+.glide__arrow:hover {
+    border-color: #000;
+}
+.sliderParent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(237, 241, 244);
+    max-width: 280px;
+}
+.cutomerReview {
+    font-family: 'Poppins';
+    margin-bottom: 30px;
+    color: rgb(52, 61, 72);
+    font-size: 15px;
+    line-height: 1.84;
+}
+.personImg {
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+}
+.personWrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: initial; */
+    margin-right: auto;
+}
+.personName {
+    font-size: 18px;
+    font-family: 'Poppins';
+}
+.personProfession {
+    font-size: 13px;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+.glide__arrow {
+    background: #fff;
+    color: #3368fa;
+    border: 2px solid #3368fa;   
+    border-radius: 3px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin-top: 22px;
+    box-shadow: 0 2px 4px 0 #c8d7ee;
+}
+.glide__arrow:hover {
+    color: #002ca6;
+    background-color: #f5f8ff;
+    border-color: #002ca6;
+    transition: all .2s ease-in-out;
+}
+.sliderParent:hover {
+    background: #f5f8ff;
+    color: #000E35;
+    box-shadow: 0 20px 32px -8px #ebf2ff, 0 0 1px 0 #a8b9d5;
+    transition: all 0.2s ease-in-out;
+}
+@media screen and (max-width: 600px) {
+    .glide__slide {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sliderParent {
+        max-width: 500px;
+    }
+}

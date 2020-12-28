@@ -1,0 +1,37 @@
+[
+    {
+        "img": "../images/envato-logo.png",
+        "alt": "Person Image",
+        "name": "Jhon Doe",
+        "post": "Business Manager",
+        "review": "Seriously one of the most well put together product I have ever seen on Themeforest, or even in general. I wish every project I have worked on was this well organized.First of all, the way the files are set up makes customization and addition so easy, amazing."
+    },
+    {
+        "img": "../images/envato-logo.png",
+        "alt": "Person Image",
+        "name": "Lehan Musthafa",
+        "post": "Cafe Manager",
+        "review": "This is very awesome template for Gatsby and Next. Anyone who loves reactjs will love this. Also the documentation quality and the design quality is awesome. I love to see more products from the author."
+    },
+    {
+        "img": "../images/envato-logo.png",
+        "alt": "Person Image",
+        "name": "Mary Jhon",
+        "post": "Artist",
+        "review": "Excellent, will get in touch with you for a DevOps partnership proposal with our project, please check your inbox!"
+    },
+    {
+        "img": "../images/envato-logo.png",
+        "alt": "Person Image",
+        "name": "Alice John",
+        "post": "Multi-National Company",
+        "review": "Best template I ever bought on Envato, there are not many as good as this. Bought this specifically because it is a React-component-based template and the designs already looked very good. And then it is also build with modern frameworks such as Next and Gatsby."
+    },
+    {
+        "img": "../images/envato-logo.png",
+        "alt": "Person Image",
+        "name": "Mohamed Musthafa",
+        "post": "Doctor",
+        "review": "Manage to turn highly complex tech into simple components to allow for easy customisation and development.The only professional sellers specialising in the React library on Envato at the moment. rather surprising, as most other sellers are still holding onto jQuery."
+    }
+]

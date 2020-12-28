@@ -1,0 +1,23 @@
+[
+    {
+        "img": "../images/email.png",
+        "alt": "Email Marketing",
+        "title": "Email Marketing",
+        "description": "Send your customers regular updates through email.",
+        "link": "email-marketing"
+    },
+    {
+        "img": "../images/webapp.png",
+        "alt": "Websites & Mobile Apps",
+        "title": "Websites & Mobile Apps",
+        "description": "Show your presence 24/7 with a website or mobile app",
+        "link": "web-app"
+    },
+    {
+        "img": "../images/analytics.png",
+        "alt": "Advanced Analytics",
+        "title": "Advanced Analytics",
+        "description": "See full overview and analytics of your website and business perfomance.",
+        "link": "analytics"
+    }
+]
