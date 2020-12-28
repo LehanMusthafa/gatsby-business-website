@@ -65,6 +65,7 @@ h1 {
   input {
     height: 31px;
     margin-top: 10px;
+    width: 240px;
   }
   
   input:focus,
