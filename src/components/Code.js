@@ -44,7 +44,7 @@ const Code = () => {
                     showcase our work and projects. Thanking you all for the
                     great support!
                   </HomeDesc>
-                  <Link to="/">
+                  <Link to="/webapp">
                     <Button>
                       <ButtonInner>
                         Web & App

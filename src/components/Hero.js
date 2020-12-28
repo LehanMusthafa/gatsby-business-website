@@ -44,7 +44,7 @@ const Home = () => {
                     Marketing, Website App creation and so on. With our
                     advanced analytics you can grow your business 10x more.
                   </HomeDesc>
-                  <Link to="/">
+                  <Link to="/hire-us">
                     <Button>
                       <ButtonInner>
                         Hire Us{" "}

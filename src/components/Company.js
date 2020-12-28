@@ -49,7 +49,7 @@ const Company = () => {
                     Firebase and many more. Which have been a great inspiration
                     to us.
                   </HomeDesc>
-                  <Link to="/">
+                  <Link to="/companys">
                     <Button buttonStyle="btn--primary">
                       <ButtonInner>
                         Customers
