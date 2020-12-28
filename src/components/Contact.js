@@ -30,7 +30,7 @@ const ContactSection = () => {
         <FormWrapper>
           <form
             method="post"
-            netlify-honeypot="bot-field" data-netlify="true" name="contact"
+            netlify-honeypot="bot-field" data-netlify="true" name="contact-form"
             className="form"
           >
             <input type="hidden" name="bot-field" />
