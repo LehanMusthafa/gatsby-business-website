@@ -34,7 +34,7 @@ const ContactSection = () => {
             className="form"
           >
             <input type="hidden" name="bot-field" />
-            <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="form-name" value="contact-form" />
             <label>
               <Label>Name</Label>
 
