@@ -12,6 +12,12 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+## 🌐 Live preview
+
+View a live preview at this url: https://developio.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf20e0e8-e9cc-47de-9783-4c49a81ae564/deploy-status)](https://app.netlify.com/sites/developio/deploys)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
